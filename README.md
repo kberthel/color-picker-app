@@ -17,7 +17,7 @@ A sleek React app for picking colors, grabbing hex codes, and previewing with dy
 - CSS (custom styles for that lunar glow)
 
 ## Quick Setup
-1. Clone: `git clone https://github.com/abcde/color-picker-app.git` (or your public repo).
+1. Clone: `git clone https://github.com/kberthel/color-picker-app.git`
 2. Install: `cd color-picker-app && npm install`.
 3. Run: `npm run dev -- --port 3000`.
 4. Open: http://localhost:3000.
