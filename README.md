@@ -14,7 +14,7 @@ A sleek React app for picking colors, grabbing hex codes, and previewing with dy
 ## Tech Stack
 - React (hooks for state magic)
 - Vite (blazing-fast builds)
-- CSS (custom styles for that lunar glow)
+- CSS
 
 ## Quick Setup
 1. Clone: `git clone https://github.com/kberthel/color-picker-app.git`
