@@ -28,4 +28,4 @@ See it live: [Vercel Demo](https://your-app.vercel.app) (deploy later!).
 From dev log: Started as a simple picker, added styling tweaks. #react #portfolio
 
 ---
-Built by Moon Orbit Coder 🌙 | [GitHub](https://github.com/abcde/2025MoonOrbitVault)
+Built by Moon Orbit Coder 🌙 | [GitHub](https://github.com/kberthel)
