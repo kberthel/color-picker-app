@@ -1,0 +1,28 @@
+# Ignore everything by default (only sync 1-Projects)
+*
+
+# Unignore 1-Projects and all its contents (projects + subfolders)
+!1-Projects/
+!1-Projects/**
+
+# But re-ignore Private subfolders inside projects (stash spot)
+1-Projects/*/Private/
+
+# Unignore .gitignore itself (so it syncs)
+!.gitignore
+
+# Obsidian cache/workspace files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-mobile.json
+
+# OS-generated junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Node bloat (if any creeps in)
+node_modules/
+dist/
