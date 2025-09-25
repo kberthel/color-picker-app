@@ -22,7 +22,7 @@ A sleek React app for picking colors, grabbing hex codes, and previewing with dy
 3. Run: `npm run dev -- --port 3000`.
 4. Open: http://localhost:3000.
 
-See it live: [Vercel Demo](https://your-app.vercel.app) (deploy later!).
+See it live: [Vercel Demo](https://color-picker-app-three.vercel.app).
 
 ## Notes
 From dev log: Started as a simple picker, added styling tweaks. #react #portfolio
