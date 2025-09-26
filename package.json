@@ -1,14 +1,20 @@
 {
   "name": "color-picker-app",
+<<<<<<< HEAD
   "homepage": "https://kberthel.github.io/color-picker-app",
+=======
+>>>>>>> 4441e2bbc0f3eba80f14eae22d88bdfbfc7c9fd2
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+<<<<<<< HEAD
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist",
+=======
+>>>>>>> 4441e2bbc0f3eba80f14eae22d88bdfbfc7c9fd2
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -24,7 +30,10 @@
     "eslint": "^9.32.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 4441e2bbc0f3eba80f14eae22d88bdfbfc7c9fd2
     "globals": "^16.3.0",
     "vite": "^7.1.0"
   }
