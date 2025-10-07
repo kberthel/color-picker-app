@@ -8,7 +8,7 @@ A sleek React app for picking colors, grabbing hex codes, and previewing with dy
 - Real-time hex display and background preview.
 - Responsive design for portfolio shine.
 
-<img src="public/Screenshot1.png" alt="Before" width="200"> <img src="public/Screenshot2.png" alt="After" width="200">
+<img src="https://raw.githubusercontent.com/kberthel/color-picker-app/main/public/Screenshot1.png" alt="Screenshot1" width="240" height="auto">     <img src="https://raw.githubusercontent.com/kberthel/color-picker-app/main/public/Screenshot2.png" alt="Screenshot2" width="240" height="auto">
 
 ## Tech Stack
 - React (hooks for state magic)
