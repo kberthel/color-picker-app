@@ -1,12 +1,12 @@
 # Color Picker App 
 Moon Orbit portfolio project—built Sep 2025.
 
-A sleek React app for picking colors, grabbing hex codes, and previewing with dynamic backgrounds. Clean, centered UI with Orbitron font vibes.
+A sleek React app for picking colors, grabbing hex codes with a dynamic background. Clean, centered UI with Orbitron font vibes.
 
 ## Features
 - Interactive color picker.
-- Real-time hex display and background preview.
-- Responsive design for portfolio shine.
+- Real-time hex display.
+- Responsive design.
 
 <img src="public/Screenshot1.png" alt="Before" width="240"> <img src="public/Screenshot2.png" alt="After" width="240">
 
